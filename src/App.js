@@ -1,8 +1,6 @@
 import React, { useState } from "react";
-import Hotmovie from './assets/Hotmovie.mp4'
-import Coldmovie from './assets/Coldmovie.mp4'
 const api = {
-  key: "0a8f420f332fb331c21d6f578ce4e717",
+  key: "KEY HERE",
   base: "https://api.openweathermap.org/data/2.5/",
 };
 
